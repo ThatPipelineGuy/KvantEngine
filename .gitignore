@@ -1,0 +1,54 @@
+# Build directories
+Build/
+obj/
+
+# Package manager directories
+/packages/
+
+# Rider and ReSharper files
+riderModule.iml
+/_ReSharper.Caches/
+
+# Visual Studio project files
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider and other JetBrains IDEs settings
+.idea/
+*.iml
+
+# Premake generated files
+Makefile
+premake5.make
+*.make
+*.workspace
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Compiled object files, libraries, and executables
+Engine/ThirdParty/premake
+*.exe
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Debugger and profiler output
+*.pdb
+*.opendb
+
+# Operating system files
+.DS_Store
+Thumbs.db
