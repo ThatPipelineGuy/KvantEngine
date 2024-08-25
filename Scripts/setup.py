@@ -76,6 +76,3 @@ if premake_result != 0:
 
 # Clean up the temporary directory
 cleanup_temp_dir()
-
-print("Setup completed. Press any key to exit...")
-input()
